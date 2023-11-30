@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FxtDocumentDescription dataLabel="LeipzigInterlinearHTML" formatLabel="HTM" defaultExtension="html" filter="HTML files (*.htm)|*.htm|All files (*.*)|*.*" mode="applySingleTransform" transform="xml2Leipzig.xsl">
+Export to Leipzig interlinear example format which can be displayed using Internet Explorer or FireFox.
+</FxtDocumentDescription>
